@@ -1,7 +1,7 @@
 # code-challenge-blog
 Blog developed for a code challenge
 
-## Clone, Install. Run Application
+## Clone, Install and Run Application
 You must have installed Node.js application
 
 - Clone the repository from https://github.com/OrlandPy/code-challenge-blog.git
